@@ -7,3 +7,10 @@ Version 10 API Specification
 
 http://bit.ly/intellijdownload
 
+http://bit.ly/psjavadoc
+
+http://bit.ly/psjavafp
+
+http://bit.ly/pstypeconversion
+
+
