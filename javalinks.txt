@@ -1,0 +1,7 @@
+http://bit.ly/psjdkdownload # for the latest JDK download
+
+https://netbeands.org/downloads # stand-alone with varying Java platform support
+
+https://docs.oracle.com/javase/10/docs/api/overview-summary.html # Java® Platform, Standard Edition & Java Development Kit
+Version 10 API Specification
+
