@@ -3,15 +3,13 @@ package com.pluralsight.nestedifs;
 public class Main {
 
     public static void main(String[] args) {
-	    float students = 0.0f;
-	    float rooms = 4.0f;
+	    int students = 150;
+	    int rooms = 15;
 
-        if ( students > 0.0f) {
-            if (rooms > 0.0f)
-                System.out.println(students / rooms);
-            }
-            else
-                System.out.println("No students");
+        if(rooms > 0 && students/rooms > 30)
+            System.out.println("Crowded!!");
+        else
+            System.out.println("Plenty of Room");
 
 	    System.out.println();
 	    System.out.println("** end program **");
