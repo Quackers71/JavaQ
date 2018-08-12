@@ -13,4 +13,4 @@ http://bit.ly/psjavafp
 
 http://bit.ly/pstypeconversion
 
-
+Use "psvm" in IntelliJ IDEA = shortcut to produce Main Method
